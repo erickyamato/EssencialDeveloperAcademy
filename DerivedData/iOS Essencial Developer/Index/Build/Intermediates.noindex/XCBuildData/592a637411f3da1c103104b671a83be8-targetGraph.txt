@@ -1,0 +1,8 @@
+Target dependency graph (5 targets)
+iOS Essencial Developer in iOS Essencial Developer, no dependencies
+iOS Essencial DeveloperTests in iOS Essencial Developer, depends on:
+iOS Essencial Developer in iOS Essencial Developer (explicit)
+iOS Essencial Developer in iOS Essencial Developer, no dependencies
+iOS Essencial DeveloperTests in iOS Essencial Developer, depends on:
+iOS Essencial Developer in iOS Essencial Developer (explicit)
+iOS Essencial DeveloperTests in iOS Essencial Developer, no dependencies

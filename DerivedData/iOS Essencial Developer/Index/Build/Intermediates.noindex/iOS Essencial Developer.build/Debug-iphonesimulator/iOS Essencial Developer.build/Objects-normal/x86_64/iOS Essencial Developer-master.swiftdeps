@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.19.104 clang-1300.0.18.4)"
+options: "3da4c8d9dc28261968f7fd8c558bd54e641bdaedd2408e3201b369b7007c801b"
+build_start_time: [1623323236, 984140872]
+build_end_time: [1623323247, 825464010]
+inputs:
+  "/Users/erickmitsuguiyamato/Documents/\uF8FF Essencial Developer/EssencialDeveloperAcademy/iOS Essencial Developer/AppDelegate.swift": [1623300354, 457845687]
+  ? "/Users/erickmitsuguiyamato/Documents/\uF8FF Essencial Developer/EssencialDeveloperAcademy/iOS Essencial Developer/Feed Feature/FeedItem.swift"
+  : [1623300354, 469912290]
+  ? "/Users/erickmitsuguiyamato/Documents/\uF8FF Essencial Developer/EssencialDeveloperAcademy/iOS Essencial Developer/Feed Feature/FeedLoader.swift"
+  : [1623300354, 470075607]
+  ? "/Users/erickmitsuguiyamato/Documents/\uF8FF Essencial Developer/EssencialDeveloperAcademy/iOS Essencial Developer/SceneDelegate.swift"
+  : [1623300354, 470382213]
+  ? "/Users/erickmitsuguiyamato/Documents/\uF8FF Essencial Developer/EssencialDeveloperAcademy/iOS Essencial Developer/ViewController.swift"
+  : [1623300354, 470543146]

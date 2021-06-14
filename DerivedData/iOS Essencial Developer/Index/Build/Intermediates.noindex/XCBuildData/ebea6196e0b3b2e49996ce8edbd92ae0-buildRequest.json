@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "67a811c58fce4d086e041e5a974d1925814b36b0e693d81596380eee46d7f0d0"
+    },
+    {
+      "guid" : "67a811c58fce4d086e041e5a974d192562bb7e849e18238a86d231e55ce83a47"
+    }
+  ],
+  "containerPath" : "/Users/erickmitsuguiyamato/Documents/ Essencial Developer/EssencialDeveloperAcademy/iOS Essencial Developer.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/erickmitsuguiyamato/Documents/ Essencial Developer/EssencialDeveloperAcademy/DerivedData/iOS Essencial Developer/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/erickmitsuguiyamato/Documents/ Essencial Developer/EssencialDeveloperAcademy/DerivedData/iOS Essencial Developer/Index/Build/Products",
+      "derivedDataPath" : "/Users/erickmitsuguiyamato/Documents/ Essencial Developer/EssencialDeveloperAcademy/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/erickmitsuguiyamato/Documents/ Essencial Developer/EssencialDeveloperAcademy/DerivedData/iOS Essencial Developer/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/erickmitsuguiyamato/Documents/ Essencial Developer/EssencialDeveloperAcademy/DerivedData/iOS Essencial Developer/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/erickmitsuguiyamato/Documents/ Essencial Developer/EssencialDeveloperAcademy/DerivedData/iOS Essencial Developer/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
